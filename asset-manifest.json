@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-gifexpertapp/static/css/main.832776f2.chunk.css",
+    "main.js": "/react-gifexpertapp/static/js/main.28e05183.chunk.js",
+    "main.js.map": "/react-gifexpertapp/static/js/main.28e05183.chunk.js.map",
+    "runtime-main.js": "/react-gifexpertapp/static/js/runtime-main.32f2a6a4.js",
+    "runtime-main.js.map": "/react-gifexpertapp/static/js/runtime-main.32f2a6a4.js.map",
+    "static/js/2.629c55af.chunk.js": "/react-gifexpertapp/static/js/2.629c55af.chunk.js",
+    "static/js/2.629c55af.chunk.js.map": "/react-gifexpertapp/static/js/2.629c55af.chunk.js.map",
+    "index.html": "/react-gifexpertapp/index.html",
+    "precache-manifest.deb7c7f526955cdfd9c80660b617f4c9.js": "/react-gifexpertapp/precache-manifest.deb7c7f526955cdfd9c80660b617f4c9.js",
+    "service-worker.js": "/react-gifexpertapp/service-worker.js",
+    "static/css/main.832776f2.chunk.css.map": "/react-gifexpertapp/static/css/main.832776f2.chunk.css.map",
+    "static/js/2.629c55af.chunk.js.LICENSE.txt": "/react-gifexpertapp/static/js/2.629c55af.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.32f2a6a4.js",
+    "static/js/2.629c55af.chunk.js",
+    "static/css/main.832776f2.chunk.css",
+    "static/js/main.28e05183.chunk.js"
+  ]
+}
